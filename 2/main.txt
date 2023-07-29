@@ -8,4 +8,22 @@ Instantiate new repository
 
 >git init
 _____________________________________________________
+process=>
+[working directory] (git add)->
+[staging area] (git commit)  -> 
+repository
+_____________________________________________________
+to add files to staging area
+
+>git add file1 file2
+_____________________________________________________
+git commit -m "my message"
+_____________________________________________________
+
+
+
+
+
+
+
 
