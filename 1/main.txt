@@ -1,0 +1,16 @@
+Configuring Git
+
+_____________________________________________________
+To configure the name that Git will associate with your work, run this command:
+
+>git config --global user.name "first-name last-name"
+_____________________________________________________
+
+You can check if this has already been configure:
+
+>git config user.name 
+_____________________________________________________
+To configure the name that Git will associate with your work, run this command:
+
+>git config --global user.email "your mail"
+_____________________________________________________

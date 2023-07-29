@@ -1,0 +1,11 @@
+The very basics of git
+_____________________________________________________
+Gives information on the current status of a git repository and its contents
+
+>git status
+_____________________________________________________
+Instantiate new repository
+
+>git init
+_____________________________________________________
+
