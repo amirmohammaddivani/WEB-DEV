@@ -1,0 +1,43 @@
+View existing branches
+
+>git branch 
+_____________________________________________________
+Creating branches
+
+>git branch <branch-name>
+_____________________________________________________
+switch branch
+
+> git switch <branch-name>
+_____________________________________________________
+old school way of switch branch
+
+>git checkout <branch-name>
+_____________________________________________________
+create a new branch and switch to it 
+
+>git switch -c <branch-name>
+_____________________________________________________
+To make unstaged changes come with you 
+
+>git switch -c <branch-name>
+_____________________________________________________
+How to delete a branch 
+
+>git branch --delete <branch-name>
+or 
+>git branch -d <branch-name>
+
+IF UNMERGED:
+>git branch --delete --force <branch-name>
+>git branch -D <branch-name>
+_____________________________________________________
+Rename branch (on branch)
+
+>git branch -m <new-name>
+_____________________________________________________
+
+
+
+
+

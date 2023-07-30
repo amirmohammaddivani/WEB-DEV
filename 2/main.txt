@@ -21,7 +21,18 @@ git commit -m "my message"
 _____________________________________________________
 
 
->git log
+>git log -- oneline
+_____________________________________________________
+To include the forgotten fiels or redo the previous commit for other reasons (tyops in commit message eg.)
+
+>git add forgotten-file 
+>git commit --amend
+_____________________________________________________
+.gigignore 
+
+Create a file called .gitignore in the root of a repository. Inside the file, we can wrte patterns to tell Git which files & folders to ignore.
+_____________________________________________________
+
 
 
 
