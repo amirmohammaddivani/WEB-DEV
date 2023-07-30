@@ -1,0 +1,3 @@
+To combine (merge) branches 
+
+>git merge
